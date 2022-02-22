@@ -1,6 +1,5 @@
 Problem statement: Estimated position and orientation of the car.
 Proposal: This is a brand-new problem for me and after the reference I am proposing this issues to solve by Kalman filter algorithm.
-How to execute: Use Octave/matlabe to run this code.
 Reference:
 https://towardsdatascience.com/kalman-filter-an-algorithm-for-making-sense-from-the-insights-of-various-sensors-fused-together-ddf67597f35e
 https://era.library.ualberta.ca/items/a3c686f3-0f2a-4f97-8845-91035085719e/view/6e28a5a2-e334-4e23-b216-3bee314e2d76/Wu_Ruifan_201904_MSc.pdf
